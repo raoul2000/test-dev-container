@@ -4,3 +4,4 @@
 *.md            eol=lf
 *.edn           eol=lf
 *.xml           eol=lf
+*.json          eol=lf
