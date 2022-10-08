@@ -1,0 +1,6 @@
+* text=auto
+
+*.clj           eol=lf
+*.md            eol=lf
+*.edn           eol=lf
+*.xml           eol=lf
